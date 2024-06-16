@@ -1,2 +1,2 @@
-Hello! I am Kath, a person who would like to devolop video games but currently doesn't know how.
-I also like to do small (usually video game modding) projects on the side.
+### Hello!
+I am Kath, a person who wants to (someday) develop video games. I also do small video game modding projects on the side.
